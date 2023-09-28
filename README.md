@@ -1,1 +1,1 @@
-# max-min-array
+# finding max and min number in an array
